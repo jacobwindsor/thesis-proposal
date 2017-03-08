@@ -1,0 +1,725 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Altman%
+, Stine%
+\BCBL {}\ \BBA {} Dang%
+}{%
+Altman%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+altman2016krebs}
+\APACinsertmetastar {%
+altman2016krebs}%
+\begin{APACrefauthors}%
+Altman, B\BPBI J.%
+, Stine, Z\BPBI E.%
+\BCBL {}\ \BBA {} Dang, C\BPBI V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {From Krebs to clinic: glutamine metabolism to cancer
+  therapy} {From krebs to clinic: glutamine metabolism to cancer
+  therapy}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nature Reviews Cancer}{16}{10}{619--634}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bader%
+, Cary%
+\BCBL {}\ \BBA {} Sander%
+}{%
+Bader%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2006}}%
+}]{%
+bader2006pathguide}
+\APACinsertmetastar {%
+bader2006pathguide}%
+\begin{APACrefauthors}%
+Bader, G\BPBI D.%
+, Cary, M\BPBI P.%
+\BCBL {}\ \BBA {} Sander, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Pathguide: a pathway resource list} {Pathguide: a
+  pathway resource list}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nucleic acids research}{34}{suppl 1}{D504--D506}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bohler%
+\ \protect \BOthers {.}}{%
+Bohler%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+bohler2016reactome}
+\APACinsertmetastar {%
+bohler2016reactome}%
+\begin{APACrefauthors}%
+Bohler, A.%
+, Wu, G.%
+, Kutmon, M.%
+, Pradhana, L\BPBI A.%
+, Coort, S\BPBI L.%
+, Hanspers, K.%
+\BDBL {}Evelo, C\BPBI T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Reactome from a WikiPathways Perspective} {Reactome from
+  a wikipathways perspective}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{PLoS Comput Biol}{12}{5}{e1004941}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cary%
+, Bader%
+\BCBL {}\ \BBA {} Sander%
+}{%
+Cary%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2005}}%
+}]{%
+cary2005pathway}
+\APACinsertmetastar {%
+cary2005pathway}%
+\begin{APACrefauthors}%
+Cary, M\BPBI P.%
+, Bader, G\BPBI D.%
+\BCBL {}\ \BBA {} Sander, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Pathway information for systems biology} {Pathway
+  information for systems biology}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{FEBS letters}{579}{8}{1815--1820}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Commisso%
+\ \protect \BOthers {.}}{%
+Commisso%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+commisso2013macropinocytosis}
+\APACinsertmetastar {%
+commisso2013macropinocytosis}%
+\begin{APACrefauthors}%
+Commisso, C.%
+, Davidson, S\BPBI M.%
+, Soydaner-Azeloglu, R\BPBI G.%
+, Parker, S\BPBI J.%
+, Kamphorst, J\BPBI J.%
+, Hackett, S.%
+\BDBL {}others%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Macropinocytosis of protein is an amino acid supply
+  route in Ras-transformed cells} {Macropinocytosis of protein is an amino acid
+  supply route in ras-transformed cells}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nature}{497}{7451}{633--637}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+DeBerardinis%
+\ \BBA {} Cheng%
+}{%
+DeBerardinis%
+\ \BBA {} Cheng%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+deberardinis2010q}
+\APACinsertmetastar {%
+deberardinis2010q}%
+\begin{APACrefauthors}%
+DeBerardinis, R\BPBI J.%
+\BCBT {}\ \BBA {} Cheng, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Q's next: the diverse functions of glutamine in
+  metabolism, cell biology and cancer} {Q's next: the diverse functions of
+  glutamine in metabolism, cell biology and cancer}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Oncogene}{29}{3}{313--324}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+DeBerardinis%
+\ \BBA {} Thompson%
+}{%
+DeBerardinis%
+\ \BBA {} Thompson%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+deberardinis2012cellular}
+\APACinsertmetastar {%
+deberardinis2012cellular}%
+\begin{APACrefauthors}%
+DeBerardinis, R\BPBI J.%
+\BCBT {}\ \BBA {} Thompson, C\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Cellular metabolism and disease: what do metabolic
+  outliers teach us?} {Cellular metabolism and disease: what do metabolic
+  outliers teach us?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cell}{148}{6}{1132--1144}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dry%
+, Yang%
+\BCBL {}\ \BBA {} Saez-Rodriguez%
+}{%
+Dry%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+dry2016looking}
+\APACinsertmetastar {%
+dry2016looking}%
+\begin{APACrefauthors}%
+Dry, J\BPBI R.%
+, Yang, M.%
+\BCBL {}\ \BBA {} Saez-Rodriguez, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Looking beyond the cancer cell for effective drug
+  combinations} {Looking beyond the cancer cell for effective drug
+  combinations}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Genome medicine}{8}{1}{125}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dumontier%
+\ \protect \BOthers {.}}{%
+Dumontier%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+dumontier2016health}
+\APACinsertmetastar {%
+dumontier2016health}%
+\begin{APACrefauthors}%
+Dumontier, M.%
+, Gray, A\BPBI J.%
+, Marshall, M\BPBI S.%
+, Alexiev, V.%
+, Ansell, P.%
+, Bader, G.%
+\BDBL {}others%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The health care and life sciences community profile for
+  dataset descriptions} {The health care and life sciences community profile
+  for dataset descriptions}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{PeerJ}{4}{}{e2331}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Facebook%
+}{%
+Facebook%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+React}
+\APACinsertmetastar {%
+React}%
+\begin{APACrefauthors}%
+Facebook.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+\APACrefbtitle {A Javascript library for building user interfaces - React.} {A
+  javascript library for building user interfaces - react.}
+\newblock
+\begin{APACrefURL} \url{https://facebook.github.io/react/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Google%
+}{%
+Google%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Angular}
+\APACinsertmetastar {%
+Angular}%
+\begin{APACrefauthors}%
+Google.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+\APACrefbtitle {Angular - One framework. Mobile & desktop.} {Angular - one
+  framework. mobile & desktop.}
+\newblock
+\begin{APACrefURL} [{2017-02-14}]\url{https://angular.io/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hodis%
+\ \protect \BOthers {.}}{%
+Hodis%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+hodis2008proteopedia}
+\APACinsertmetastar {%
+hodis2008proteopedia}%
+\begin{APACrefauthors}%
+Hodis, E.%
+, Prilusky, J.%
+, Martz, E.%
+, Silman, I.%
+, Moult, J.%
+\BCBL {}\ \BBA {} Sussman, J\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Proteopedia-a scientific'wiki'bridging the rift between
+  three-dimensional structure and function of biomacromolecules} {Proteopedia-a
+  scientific'wiki'bridging the rift between three-dimensional structure and
+  function of biomacromolecules}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Genome biology}{9}{8}{R121}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hoffmann%
+}{%
+Hoffmann%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+hoffmann2008wiki}
+\APACinsertmetastar {%
+hoffmann2008wiki}%
+\begin{APACrefauthors}%
+Hoffmann, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A wiki for the life sciences where authorship matters}
+  {A wiki for the life sciences where authorship matters}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nature genetics}{40}{9}{1047--1051}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Joshi-Tope%
+\ \protect \BOthers {.}}{%
+Joshi-Tope%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2005}}%
+}]{%
+joshi2005reactome}
+\APACinsertmetastar {%
+joshi2005reactome}%
+\begin{APACrefauthors}%
+Joshi-Tope, G.%
+, Gillespie, M.%
+, Vastrik, I.%
+, D'Eustachio, P.%
+, Schmidt, E.%
+, de Bono, B.%
+\BDBL {}others%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Reactome: a knowledgebase of biological pathways}
+  {Reactome: a knowledgebase of biological pathways}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nucleic acids research}{33}{suppl 1}{D428--D432}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kanehisa%
+, Goto%
+, Kawashima%
+, Okuno%
+\BCBL {}\ \BBA {} Hattori%
+}{%
+Kanehisa%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2004}}%
+}]{%
+kanehisa2004kegg}
+\APACinsertmetastar {%
+kanehisa2004kegg}%
+\begin{APACrefauthors}%
+Kanehisa, M.%
+, Goto, S.%
+, Kawashima, S.%
+, Okuno, Y.%
+\BCBL {}\ \BBA {} Hattori, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The KEGG resource for deciphering the genome} {The kegg
+  resource for deciphering the genome}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nucleic acids research}{32}{suppl 1}{D277--D280}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kelder%
+\ \protect \BOthers {.}}{%
+Kelder%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+kelder2012wikipathways}
+\APACinsertmetastar {%
+kelder2012wikipathways}%
+\begin{APACrefauthors}%
+Kelder, T.%
+, van Iersel, M\BPBI P.%
+, Hanspers, K.%
+, Kutmon, M.%
+, Conklin, B\BPBI R.%
+, Evelo, C\BPBI T.%
+\BCBL {}\ \BBA {} Pico, A\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {WikiPathways: building research communities on
+  biological pathways} {Wikipathways: building research communities on
+  biological pathways}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nucleic acids research}{40}{D1}{D1301--D1307}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kutmon%
+\ \protect \BOthers {.}}{%
+Kutmon%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+kutmon2015pathvisio}
+\APACinsertmetastar {%
+kutmon2015pathvisio}%
+\begin{APACrefauthors}%
+Kutmon, M.%
+, van Iersel, M\BPBI P.%
+, Bohler, A.%
+, Kelder, T.%
+, Nunes, N.%
+, Pico, A\BPBI R.%
+\BCBL {}\ \BBA {} Evelo, C\BPBI T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {PathVisio 3: an extendable pathway analysis toolbox}
+  {Pathvisio 3: an extendable pathway analysis toolbox}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{PLoS Comput Biol}{11}{2}{e1004085}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Martin%
+}{%
+Martin%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+martin2003agile}
+\APACinsertmetastar {%
+martin2003agile}%
+\begin{APACrefauthors}%
+Martin, R\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2003}.
+\newblock
+\APACrefbtitle {Agile software development: principles, patterns, and
+  practices} {Agile software development: principles, patterns, and practices}.
+\newblock
+\APACaddressPublisher{}{Prentice Hall PTR}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Microsoft%
+}{%
+Microsoft%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Typescript}
+\APACinsertmetastar {%
+Typescript}%
+\begin{APACrefauthors}%
+Microsoft.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+\APACrefbtitle {Typescript - Javascript that scales.} {Typescript - javascript
+  that scales.}
+\newblock
+\begin{APACrefURL} [{2017-02-14}]\url{http://www.typescriptlang.org}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pico%
+\ \protect \BOthers {.}}{%
+Pico%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+pico2008wikipathways}
+\APACinsertmetastar {%
+pico2008wikipathways}%
+\begin{APACrefauthors}%
+Pico, A\BPBI R.%
+, Kelder, T.%
+, Van~Iersel, M\BPBI P.%
+, Hanspers, K.%
+, Conklin, B\BPBI R.%
+\BCBL {}\ \BBA {} Evelo, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {WikiPathways: pathway editing for the people}
+  {Wikipathways: pathway editing for the people}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{PLoS Biol}{6}{7}{e184}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Riutta%
+, Pico%
+, Bumbu%
+\BCBL {}\ \BBA {} Summer-Kutmon%
+}{%
+Riutta%
+, Pico%
+, Bumbu%
+\BCBL {}\ \BBA {} Summer-Kutmon%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+PVJS}
+\APACinsertmetastar {%
+PVJS}%
+\begin{APACrefauthors}%
+Riutta, A.%
+, Pico, A.%
+, Bumbu%
+\BCBL {}\ \BBA {} Summer-Kutmon, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+\APACrefbtitle {PVJS.} {Pvjs.}
+\newblock
+\APAChowpublished {\url{https://github.com/wikipathways/pvjs}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Riutta%
+, Pico%
+, Bumbu%
+, Hanspers%
+\BCBL {}\ \protect \BOthers {.}}{%
+Riutta%
+, Pico%
+, Bumbu%
+, Hanspers%
+\BCBL {}\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+kaavio}
+\APACinsertmetastar {%
+kaavio}%
+\begin{APACrefauthors}%
+Riutta, A.%
+, Pico, A.%
+, Bumbu, A.%
+, Hanspers, K.%
+, Windsor, J.%
+, Willighagen, E.%
+\BCBL {}\ \BBA {} Summer-Kutmon, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+\APACrefbtitle {Kaavio.} {Kaavio.}
+\newblock
+\APAChowpublished {\url{https://github.com/wikipathways/kaavio}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ryall%
+\ \BBA {} Tan%
+}{%
+Ryall%
+\ \BBA {} Tan%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+ryall2015systems}
+\APACinsertmetastar {%
+ryall2015systems}%
+\begin{APACrefauthors}%
+Ryall, K\BPBI A.%
+\BCBT {}\ \BBA {} Tan, A\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Systems biology approaches for advancing the discovery
+  of effective drug combinations} {Systems biology approaches for advancing the
+  discovery of effective drug combinations}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of cheminformatics}{7}{1}{7}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Twitter%
+}{%
+Twitter%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+Bootstrap}
+\APACinsertmetastar {%
+Bootstrap}%
+\begin{APACrefauthors}%
+Twitter.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {Bootstrap - The world's most popular mobile-first and
+  responsive front-end framework.} {Bootstrap - the world's most popular
+  mobile-first and responsive front-end framework.}
+\newblock
+\begin{APACrefURL} [{2017-02-14}]\url{http://getbootstrap.com/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+van Iersel%
+\ \protect \BOthers {.}}{%
+van Iersel%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+van2010bridgedb}
+\APACinsertmetastar {%
+van2010bridgedb}%
+\begin{APACrefauthors}%
+van Iersel, M\BPBI P.%
+, Pico, A\BPBI R.%
+, Kelder, T.%
+, Gao, J.%
+, Ho, I.%
+, Hanspers, K.%
+\BDBL {}Evelo, C\BPBI T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The BridgeDb framework: standardized access to gene,
+  protein and metabolite identifier mapping services} {The bridgedb framework:
+  standardized access to gene, protein and metabolite identifier mapping
+  services}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{BMC bioinformatics}{11}{1}{5}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wu%
+, Feng%
+\BCBL {}\ \BBA {} Stein%
+}{%
+Wu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+wu2010human}
+\APACinsertmetastar {%
+wu2010human}%
+\begin{APACrefauthors}%
+Wu, G.%
+, Feng, X.%
+\BCBL {}\ \BBA {} Stein, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A human functional protein interaction network and its
+  application to cancer data analysis} {A human functional protein interaction
+  network and its application to cancer data analysis}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Genome biology}{11}{5}{R53}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

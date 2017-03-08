@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: proposal.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: references.bib
+Warning--entry type for "Typescript" isn't style-file defined
+--line 279 of file references.bib
+Warning--entry type for "Angular" isn't style-file defined
+--line 287 of file references.bib
+Warning--entry type for "Bootstrap" isn't style-file defined
+--line 295 of file references.bib
+Warning--entry type for "React" isn't style-file defined
+--line 396 of file references.bib
+I was expecting a `,' or a `}'---line 401 of file references.bib
+ :   
+ :   urldate = {2017-03-14}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 26 entries,
+            6951 wiz_defined-function locations,
+            1427 strings with 15642 characters,
+and the built_in function-call counts, 53643 in all, are:
+= -- 6583
+> -- 517
+< -- 2484
++ -- 2729
+- -- 68
+* -- 3412
+:= -- 9350
+add.period$ -- 101
+call.type$ -- 26
+change.case$ -- 429
+chr.to.int$ -- 0
+cite$ -- 52
+duplicate$ -- 1691
+empty$ -- 2075
+format.name$ -- 988
+if$ -- 10156
+int.to.chr$ -- 0
+int.to.str$ -- 78
+missing$ -- 0
+newline$ -- 685
+num.names$ -- 208
+pop$ -- 860
+preamble$ -- 1
+purify$ -- 103
+quote$ -- 0
+skip$ -- 3512
+stack$ -- 0
+substring$ -- 2965
+swap$ -- 918
+text.length$ -- 59
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 2368
+warning$ -- 0
+while$ -- 329
+width$ -- 0
+write$ -- 895
+(There was 1 error message)
